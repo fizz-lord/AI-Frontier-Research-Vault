@@ -18,7 +18,7 @@ Prompt injection succeeds because models infer roles from writing style, not fro
 - Subconscious steering: non malicious text style shifts model behavior without direct injection.
 
 ## Defensive Notes
-- Do not rely on XML/JSON-style structural tags alone for trust boundaries.
+- Do not rely on XML/JSON style structural tags alone for trust boundaries.
 - Treat reasoning style text with caution even when it claims to be user input.
 - Probe per role metrics such as CoTness and Userness with linear probes when auditing models.
 
