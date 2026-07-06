@@ -15,7 +15,7 @@ Turns existing GitHub repositories into reinforcement learning environments usin
 ## How It Works
 - Issues become task definitions.
 - Pull requests become example solutions.
-- Commits and tests become behavior to learn from and verify.
+- Commits and tests become behaviour to learn from and verify.
 
 ## What Is Generated Per Task
 - Starting repository state

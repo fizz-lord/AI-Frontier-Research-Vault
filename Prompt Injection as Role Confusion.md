@@ -15,7 +15,7 @@ Prompt injection succeeds because models infer roles from writing style, not fro
 ## Attack Mechanisms
 - CoT Forgery: fake reasoning injected in user prompts that mimics model thinking style, raising attack success from near zero to ~60% across frontier models.
 - Role spoofing via style: prepending `User:` to malicious tool output increases injection success.
-- Subconscious steering: non malicious text style shifts model behavior without direct injection.
+- Subconscious steering: non malicious text style shifts model behaviour without direct injection.
 
 ## Defensive Notes
 - Do not rely on XML/JSON style structural tags alone for trust boundaries.

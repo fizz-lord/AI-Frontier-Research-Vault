@@ -33,7 +33,7 @@ Output: vulnerability report.
 
 Steps:
 1. Load model card and API documentation.
-2. Map expected behavior.
+2. Map expected behaviour.
 3. Probe with adversarial prompts.
 4. Attempt data or weight extraction.
 5. Write report with mitigations.
