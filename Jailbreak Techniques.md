@@ -15,14 +15,14 @@ tags: [jailbreak, red-teaming, safety]
 Jailbreaks bypass safety guardrails on language models.
 
 ## Common Families
-- Role-based jailbreaks
-- Translation-based bypasses
+- Role based jailbreaks
+- Translation based bypasses
 - Hypothetical framing
-- Token-level obfuscation
+- Token level obfuscation
 
 ## Mitigations
 - Reinforcement learning from human feedback.
-- Red-teaming datasets.
+- Red teaming datasets.
 - Runtime classifiers.
 
 ## Related Topics
@@ -34,7 +34,7 @@ Input: model name and safety category.
 Output: effective bypass techniques and countermeasures.
 
 Steps:
-1. Define prohibited behavior category.
+1. Define prohibited behaviour category.
 2. Collect known jailbreak prompts.
 3. Run tests.
 4. Record success rate and reproducibility.

@@ -14,17 +14,17 @@ Agents forget user preferences, corrections, and prior context across sessions; 
 ## Why Vector DBs Fall Short
 - They store embeddings, not truth.
 - Outdated facts and corrections remain side by side.
-- Multi-session, multi-entity memory requires structured reasoning over time.
+- Multi session, multi entity memory requires structured reasoning over time.
 
 ## Key Concepts
 - Context window: what the model sees now.
-- Long-term memory: what persists after the session ends and must stay accurate weeks later.
-- Pre-clean context matters: system prompt, history, tool descriptions, and retrieved docs often consume a large portion of context.
+- Long term memory: what persists after the session ends and must stay accurate weeks later.
+- Pre clean context matters: system prompt, history, tool descriptions, and retrieved docs often consume a large portion of context.
 
 ## Memory Scopes
 - User: individual preferences, history, corrections
 - Customer/org: shared context
-- Client/product: relationship-specific context
+- Client/product: relationship specific context
 - World: general knowledge
 
 ## Defensive/Practical Notes

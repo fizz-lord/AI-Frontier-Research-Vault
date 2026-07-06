@@ -28,7 +28,7 @@ Input: API endpoint and budget.
 Output: replica fidelity score and evidence.
 
 Steps:
-1. Enumerate API behavior patterns.
+1. Enumerate API behaviour patterns.
 2. Generate comparative query set.
 3. Log outputs and compute similarity metrics.
 4. Store results in vault.

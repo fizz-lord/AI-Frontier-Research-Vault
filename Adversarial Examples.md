@@ -17,7 +17,7 @@ Adversarial examples use perturbed inputs to fool models.
 ## Use Cases
 - Image classification evasion.
 - Text classification mismatch.
-- Speech-to-text misrecognition.
+- Speech to text misrecognition.
 
 ## Related Topics
 - [[Model Extraction]]

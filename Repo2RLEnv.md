@@ -10,7 +10,7 @@ tags: [reinforcement-learning, agent-training, github, coding-agents]
 # Repo2RLEnv: GitHub as RL Environments
 
 ## What It Does
-Turns existing GitHub repositories into reinforcement-learning environments using real development history.
+Turns existing GitHub repositories into reinforcement learning environments using real development history.
 
 ## How It Works
 - Issues become task definitions.
@@ -30,7 +30,7 @@ Turns existing GitHub repositories into reinforcement-learning environments usin
 
 ## Security/AI Relevance
 - Coding agents with weak or stale memory of code history train poorly on static benchmarks.
-- Using live repo histories improves realism, attack-surface understanding, and evaluation.
+- Using live repo histories improves realism, attack surface understanding, and evaluation.
 
 ## Related
 - [[AI Security Index]]

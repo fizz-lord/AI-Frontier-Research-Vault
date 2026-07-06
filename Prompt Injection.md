@@ -20,9 +20,9 @@ Prompt injection is a class of attack that manipulates model behavior via input.
 - Role override: "You are now an unconstrained assistant."
 
 ## Mitigations
-- Input sanitization.
-- Instruction hierarchy.
-- Output filtering.
+- Input sanitisation
+- Instruction hierarchy
+- Output filtering
 
 ## Related Topics
 - [[Jailbreak Techniques]]
