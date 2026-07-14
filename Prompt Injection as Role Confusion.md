@@ -23,7 +23,7 @@ Prompt injection succeeds because models infer roles from writing style, not fro
 - Probe per role metrics such as CoTness and Userness with linear probes when auditing models.
 
 ## References
-- Charles Ye, Jasmine Cui, Dylan Hadfield-Menell, ICML 2026
+- Charles Ye, Jasmine Cui, Dylan Hadfield Menell, ICML 2026
 - Code: role-confusion/prompt-injection-as-role-confusion
 
 ## Related
