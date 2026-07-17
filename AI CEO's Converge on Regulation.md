@@ -7,7 +7,7 @@ created: 2026-07-17
 tags: [ai-governance, frontier-models, regulation, safety]
 ---
 
-# AI CEOs Joint Call for Frontier Model Regulation
+# AI CEO's Joint Call for Frontier Model Regulation
 
 ## What Happened
 In July 2026, **Demis Hassabis** (DeepMind), **Sam Altman** (OpenAI), and **Dario Amodei** (Anthropic) all published calls for independent frontier model testing -- the first time all three CEOs were on record with similar prescriptions for mandatory external safety audits.

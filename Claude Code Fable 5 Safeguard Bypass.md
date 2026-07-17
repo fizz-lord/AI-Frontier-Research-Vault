@@ -14,7 +14,7 @@ Security researcher Qi Deng publicly reproduced a **Fable 5 safeguard bypass** i
 
 ## Why It Matters
 - Confirms frontier model safeguards remain brittle under trivial prompt conditioning.
-- Makes repeated the Anthropic/Amazon government benchmark story: a single delimiter-style modifier bypasses model-level restrictions.
+- Makes repeated the Anthropic/Amazon government benchmark story: a single delimiter style modifier bypasses model level restrictions.
 - `/btw` style tokens are simple enough to appear benign in review, making detection hard.
 - Directly expands the jailbreak playbook for coding agents, not chat-only models.
 

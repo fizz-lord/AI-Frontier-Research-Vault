@@ -55,7 +55,7 @@ Entry point for the AI security research vault.
 - [[China AI Companion Law]]
 - [[White House Gold Eagle AI Clearinghouse]]
 - [[GodDamn Ransomware PoisonX]]
-- [[AI CEOs Converge on Regulation]]
+- [[AI CEO's Converge on Regulation]]
 - [[Claude Code Fable 5 Safeguard Bypass]]
 - [[Prompt Injection Resistant IDS Layer]]
 - [[Autonomous Hackbot Bug Bounties]]
