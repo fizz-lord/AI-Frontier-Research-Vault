@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "82b54cbb90ea27dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "97aad5446c00f535",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d6e81ed609e7a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Microsoft MDASH Bug Apocalypse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Microsoft MDASH Bug Apocalypse"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d3c943d2d34fe1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dc0d4590c840c8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a24ee578c3a7b645",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "810a7e2c8f2ce7fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6c94fb8fa7afcad6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f15757259d9d1364",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cee447d987d25e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb772c63a28a5c2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "e90161edf7ae9bba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "b2c9a083f531442c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "35a6910b13cc27f9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "aa8fcd40cd6ba438",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "1d6e81ed609e7a54",
+  "lastOpenFiles": [
+    "Agentic Privilege Crisis.md",
+    "First Fully Autonomous AI Ransomware.md",
+    "AI CEOs Converge on Regulation.md",
+    "Microsoft MDASH Bug Apocalypse.md",
+    "GodDamn Ransomware PoisonX.md",
+    "White House Gold Eagle AI Clearinghouse.md",
+    "China AI Companion Law.md",
+    "China Distillation Offensive.md",
+    "README.md",
+    "src/site/random.md",
+    "vercel.json",
+    "src/site/_includes/layouts/random.njk",
+    "src/site/_includes/layouts/note.njk",
+    "src/site/_includes/layouts/index.njk",
+    "src/site/_includes/components/timestamps.njk",
+    "src/site/_includes/components/sidebar.njk",
+    "src/site/_includes/components/searchScript.njk",
+    "src/site/_includes/components/searchContainer.njk",
+    "src/site/_includes/components/searchButton.njk",
+    "src/site/_includes/components/references.njk",
+    "src/site/img/tree-3.svg",
+    "src/site/img/tree-2.svg",
+    "src/site/img/tree-1.svg",
+    "src/site/img/outgoing.svg",
+    "src/site/img/default-note-icon.svg",
+    "src/site/favicon.svg",
+    "LLM Powered Ecosystem Hardening.md",
+    "Adversarial Examples.md",
+    "US Jailbreak Benchmark.md",
+    "UBTECH U1 Identity Replication Risk.md",
+    "ToddyCat OAuth Gmail Theft.md",
+    "Sygnia AWS Agentic AI Breach.md",
+    "Shadow AI Systemic Risk.md",
+    "Repo2RLEnv.md",
+    "Repo Prompt Injection via DNS.md",
+    "Prompt Injection as Role Confusion.md",
+    "Prompt Injection.md",
+    "Pliny T3MP3ST.md",
+    "OpenAI Government Stake.md",
+    "New MCP Spec Security Implications.md",
+    "Neuralink Durectomy Bypass.md",
+    "Model Extraction.md"
+  ]
+}

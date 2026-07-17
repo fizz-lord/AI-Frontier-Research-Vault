@@ -11,19 +11,11 @@ Docs are available at [docs.forestry.md](https://docs.forestry.md/)
 ---
 ## CSS Variables
 
-The digital garden is fully customizable through CSS variables. Override these in `src/site/styles/custom-style.scss` to customize your garden's appearance.
+The digital garden is fully customisable through CSS variables. Override these in `src/site/styles/custom-style.scss` to customise your garden's appearance.
 
 ### How to Customize
 
-Add your overrides to `custom-style.scss`:
-
-```scss
-body {
-    --dg-content-max-width: 800px;
-    --dg-content-font-size: 16px;
-    --dg-sidebar-max-width: 400px;
-}
-```
+Add your overrides to `custom-style.scss` to customise your garden's appearance:
 
 ### Responsive Layout Notes
 
@@ -34,27 +26,27 @@ body {
 ### Available Variables
 
 #### Color Variables
-You can override the base Obsidian theme color variables directly:
+- You can override the base Obsidian theme colour variables directly:
 
 | Variable | Description |
 |----------|-------------|
-| `--text-normal` | Normal text color |
-| `--text-muted` | Muted/secondary text |
-| `--text-faint` | Faint text |
-| `--text-accent` | Accent color |
-| `--text-accent-hover` | Accent hover color |
-| `--link-color` | Link color |
-| `--link-color-hover` | Link color hover |
-| `--link-unresolved-color` | Link color unresolved |
-| `--link-unresolved-opacity` | Link color unresolved opacity |
-| `--background-primary` | Primary background |
-| `--background-primary-alt` | Alt primary background |
-| `--background-secondary` | Secondary background |
-| `--background-secondary-alt` | Alt secondary background |
-| `--interactive-normal` | Interactive element color |
-| `--interactive-hover` | Interactive hover color |
-| `--interactive-accent` | Interactive accent |
-| `--interactive-accent-hover` | Interactive accent hover |
+|| `--text-normal` | Normal text colour |
+|| `--text-muted` | Muted/secondary text |
+|| `--text-faint` | Faint text |
+|| `--text-accent` | Accent colour |
+|| `--text-accent-hover` | Accent hover colour |
+|| `--link-color` | Link colour |
+|| `--link-color-hover` | Link colour hover |
+|| `--link-unresolved-color` | Link colour unresolved |
+|| `--link-unresolved-opacity` | Link colour unresolved opacity |
+|| `--background-primary` | Primary background |
+|| `--background-primary-alt` | Alt primary background |
+|| `--background-secondary` | Secondary background |
+|| `--background-secondary-alt` | Alt secondary background |
+|| `--interactive-normal` | Interactive element colour |
+|| `--interactive-hover` | Interactive hover colour |
+|| `--interactive-accent` | Interactive accent |
+|| `--interactive-accent-hover` | Interactive accent hover |
 
 #### Layout Variables
 
@@ -87,11 +79,11 @@ You can override the base Obsidian theme color variables directly:
 | `--dg-graph-margin-bottom` | `20px` | Graph bottom margin |
 | `--dg-graph-fullscreen-width` | `90vw` | Expanded/global graph width |
 | `--dg-graph-fullscreen-height` | `85vh` | Expanded/global graph height |
-| `--dg-graph-node-color` | `var(--text-accent)` | Active/current node color |
-| `--dg-graph-node-color-muted` | `var(--text-faint)` | Neighbor node color |
-| `--dg-graph-label-color` | `var(--text-normal)` | Node label text color |
-| `--dg-graph-bg` | `var(--background-primary)` | Graph background color |
-| `--dg-graph-border-color` | `var(--background-secondary)` | Graph border color |
+|| `--dg-graph-node-color` | `var(--text-accent)` | Active/current node colour |
+|| `--dg-graph-node-color-muted` | `var(--text-faint)` | Neighbour node colour |
+|| `--dg-graph-label-color` | `var(--text-normal)` | Node label text colour |
+|| `--dg-graph-bg` | `var(--background-primary)` | Graph background colour |
+|| `--dg-graph-border-color` | `var(--background-secondary)` | Graph border colour |
 
 #### Filetree (Left Sidebar) Variables
 
@@ -201,7 +193,7 @@ You can override the base Obsidian theme color variables directly:
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `--dg-overlay-bg` | `rgba(0, 0, 0, 0.5)` | Overlay background color |
+|| `--dg-overlay-bg` | `rgba(0, 0, 0, 0.5)` | Overlay background colour |
 | `--dg-mermaid-radius` | `25px` | Mermaid diagram border radius |
 | `--dg-mermaid-padding` | `10px` | Mermaid diagram padding |
 | `--dg-transclusion-padding` | `8px` | Transclusion container padding |

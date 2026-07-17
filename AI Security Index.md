@@ -48,6 +48,18 @@ Entry point for the AI security research vault.
 - [[Shadow AI Systemic Risk]]
 - [[Chinese Open Weight LLMs]]
 - [[AI Safety Index Regression]]
+- [[Microsoft MDASH Bug Apocalypse]]
+- [[China Distillation Offensive]]
+- [[First Fully Autonomous AI Ransomware]]
+- [[Agentic Privilege Crisis]]
+- [[China AI Companion Law]]
+- [[White House Gold Eagle AI Clearinghouse]]
+- [[GodDamn Ransomware PoisonX]]
+- [[AI CEOs Converge on Regulation]]
+- [[Claude Code Fable 5 Safeguard Bypass]]
+- [[Prompt Injection Resistant IDS Layer]]
+- [[Autonomous Hackbot Bug Bounties]]
+- [[Multilingual Jailbreaking]]
 
 ## How to Use This Vault
 1. Add new research notes.
