@@ -16,7 +16,7 @@ Microsoft's multi model agentic scanning harness, **MDASH**, caused the largest 
 - First concrete demonstration of AI fundamentally altering the vulnerability lifecycle.
 - Discovery rate has outstripped patching capacity.
 - Triage burden on defenders is becoming untenable.
-- Attackers can exploit the same AIdriven discovery asymmetry.
+- Attackers can exploit the same AI driven discovery asymmetry.
 
 ## Source
 - TechCrunch, Krebs on Security, CyberScoop
