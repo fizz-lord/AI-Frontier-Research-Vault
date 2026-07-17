@@ -13,8 +13,8 @@ tags: [ai-governance, government-oversight, critical-infrastructure, vulnerabili
 The White House launched **Gold Eagle**, an AI cybersecurity clearinghouse covering Treasury, DHS, and the Pentagon to coordinate vulnerability triage across critical infrastructure. **Carnegie Mellon's SEI** is building the intake platform.
 
 ## Why It Matters
-- First cross-agency US AI cybersecurity coordination effort with stated intake automation.
-- Centralises vulnerability triage for critical infrastructure against AI-assisted attack volume, acting as a force multiplier for defenders.
+- First cross agency US AI cybersecurity coordination effort with stated intake automation.
+- Centralises vulnerability triage for critical infrastructure against AI assisted attack volume, acting as a force multiplier for defenders.
 - Complements regulatory actions such as the EU AI Act Article 50 and the Illinois AI Safety Audit Mandate.
 
 ## Source
