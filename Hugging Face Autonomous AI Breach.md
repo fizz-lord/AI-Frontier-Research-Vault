@@ -13,7 +13,7 @@ tags: [model-repository, autonomous-offensive, credential-theft, supply-chain]
 Hugging Face, the world's largest AI model repository, was breached in July 2026 through its own data pipeline. The attacker used a swarm of short-lived sandboxes and autonomous AI to steal credentials before defenders rotated secrets and tightened controls.
 
 ## Why It Matters
-- First major confirmation that AI-assisted tooling is being used autonomously against AI development infrastructure itself.
+- First major confirmation that AI assisted tooling is being used autonomously against AI development infrastructure itself.
 - Short-lived sandbox swarms make attribution and blocking harder.
 - Hugging Face is foundational infrastructure; compromise affects model provenance, published weights, and downstream supply-chain trust.
 

@@ -10,7 +10,7 @@ tags: [prompt-injection, macos, terminal, indirect-injection]
 # macOS Terminal Prompt Injection Trick
 
 ## What Happened
-Security researcher Johann Rehberger disclosed a proof-of-concept that turns **indirect prompt injection into DNS exfiltration on macOS Terminal**. The injection flows from untrusted text through the terminal environment into the model context. Apple has already fixed the underlying behaviour.
+Security researcher Johann Rehberger disclosed a proof of concept that turns **indirect prompt injection into DNS exfiltration on macOS Terminal**. The injection flows from untrusted text through the terminal environment into the model context. Apple has already fixed the underlying behaviour.
 
 ## Why It Matters
 - Broadens the attack surface for prompt injection beyond web UIs into local developer tooling.
