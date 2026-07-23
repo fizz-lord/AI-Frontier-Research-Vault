@@ -18,7 +18,7 @@ tags: [edr-evasion, llm-offensive, reverse-engineering, autonomous-red-team]
 - Same process reportedly already produced extracted rules and models for every major EDR vendor.
 
 ## Source
-- SpecterOps - Accelerating EDR Evasion with LLM-Driven Analysis
+- SpecterOps - Accelerating EDR Evasion with LLM Driven Analysis
 - tldrsec #338
 
 ## Related
